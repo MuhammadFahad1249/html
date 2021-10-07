@@ -1,0 +1,7 @@
+/*cascaded style sheet*/
+.heading{
+    color:rgb(255, 255, 255) ;background-color :rgb(206, 134, 41);
+}
+.sub-headings{
+    color :white; background-color: red;
+}
